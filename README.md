@@ -6,3 +6,7 @@ second line from repo
 Add New Line again
 4 line from local
 5 line from local
+Add line 6 to 8
+6 line from local
+7 line from local
+8 line from local
